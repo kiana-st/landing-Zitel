@@ -181,7 +181,7 @@ i {
 
 /* banner start */
 .banner{
-	background: linear-gradient(103deg, rgba(28,115,184,1) 0%, rgba(162,217,239,1) 49%, rgba(119,146,202,1) 100%);
+	background: linear-gradient(90deg, rgba(64,162,74,1) 37%, rgba(156,202,66,1) 58%);
 	padding-bottom: 200px;
 }
 .ashkan{
@@ -262,7 +262,7 @@ margin-top: 180px;
 	  font-size: 30px;
 	  /* margin: 35px 0px 150px 160px; */
 	  text-align: center;
-	  background: #4bbeac;
+	  background: #B2D236;
 	  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 	  border-radius: 35px;
 	  /* line-height: 20px !important; */
@@ -288,7 +288,7 @@ margin-top: 180px;
 	font-size: 18px;
 	font-weight: 800;
 	color: #000;
-	background-color: #4bbeac;
+	background-color: #B2D236;
 	border: none;
 	border-radius: 45px;
 	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
