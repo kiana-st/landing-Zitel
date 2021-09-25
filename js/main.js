@@ -163,7 +163,7 @@ function handleForm(e) {
     e.preventDefault();
     var form_data = new FormData(document.getElementById("form"));
 
-    fetch('https://testapi.shadzi.club/campaigns/digikalla/user/submit', {
+    fetch('https://testapi.zitel.club/campaigns/digikalla/user/submit', {
         method: 'POST',
         
         body: form_data,
