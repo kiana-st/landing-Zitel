@@ -188,7 +188,7 @@ i {
   padding-bottom: 200px;
 }
 .ashkan {
-  font-size: 20px;
+  font-size: 18px;
   color: white;
   text-align: right;
   font-weight: 900;
@@ -196,7 +196,7 @@ i {
 }
 .pic-gallerys {
   font-weight: 900;
-  width: 50px;
+  width: 39px;
 }
 .sport {
   width: 400px;
@@ -430,7 +430,7 @@ h2 {
   .ashkan {
     margin-top: 10px;
     margin-top: 25px !important;
-    font-size: 21px;
+    font-size: 16px;
   }
   .enter {
     margin-top: 20px;
@@ -441,14 +441,18 @@ h2 {
     margin-top: 65px;
   }
   .video-fluid {
-	width: 80% !important;
-	height: auto;
+    width: 80% !important;
+    height: auto;
   }
 }
-.videos{
-	text-align: center;
+.videos {
+  text-align: center;
 }
-	.video-fluid {
-		width: 40%;
-		height: auto;
-	  }
+.video-fluid {
+  width: 40%;
+  height: auto;
+}
+.card-img-top {
+  height: 350px;
+  width: 300px;
+}
