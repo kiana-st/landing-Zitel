@@ -29,11 +29,12 @@ function test(){
 	});
 }
 $(document).ready(function(){
-	setTimeout(function(){ test(); });
+	 setTimeout(function(){ test(); },200);
+    $(window).on('resize', function(){
+        setTimeout(function(){ test(); }, 200);
+    });
 });
-$(window).on('resize', function(){
-	setTimeout(function(){ test(); }, 500);
-});
+
 $(".navbar-toggler").click(function(){
 	$(".navbar-collapse").slideToggle(300);
 	setTimeout(function(){ test(); },1000);
